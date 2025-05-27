@@ -47,3 +47,7 @@ Clase con el menú principal que permite al usuario interactuar con el sistema d
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/Alejandromr1599/gestion-biblioteca-java.git
+
+2. Abre el proyecto en tu IDE Java favorito (IntelliJ, Eclipse, NetBeans, etc.).
+
+3. Ejecuta la clase Main.java.
